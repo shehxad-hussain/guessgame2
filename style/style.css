@@ -1,0 +1,42 @@
+body{
+    /* margin: 0px; */
+    padding: 0px;
+    background-color:rgb(91, 96, 102);
+
+}
+#guess{
+    font-size: 16px;
+    width: 40%;
+    text-align: center;
+    border: 0px;
+    background-color: lightskyblue;
+    font-size: 25px;
+    font-weight: bolder;
+    color: white;
+}
+#playagain{
+    padding-left: 35%;
+    padding-right: 35%;
+    font-size: 25px;
+    font-weight: bolder;
+    color: white;
+}
+#arrow{
+    background-color: rgb(255, 255, 255);
+    clip-path: polygon(0% 20%, 60% 20%, 60% 0%, 100% 50%, 60% 100%, 60% 80%, 0% 80%);
+    margin-top: 15%;
+    width: 60%;
+    height: 60%;
+    padding-left: 0px;
+
+}
+label{
+    padding: 10px;
+    background-color: rgb(248, 244, 239);
+}
+#message{
+    font-weight: bolder;
+    font-size: 35px;
+    margin: 5px;
+    color: white;
+}
